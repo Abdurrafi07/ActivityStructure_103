@@ -25,5 +25,10 @@ int main() {
 	cout << "Masukan Umur : ";
 	cin >> mhs2.umur;
 
+	cout << "NIM = " << mhs1.NIM;
+	cout << "\nNama = " << mhs1.nama;
+	cout << "\nAlamat = " << mhs1.alamat;
+	cout << "\nUmur = " << mhs1.umur;
+	
 
 }
