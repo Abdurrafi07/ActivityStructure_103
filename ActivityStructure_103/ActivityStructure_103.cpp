@@ -30,5 +30,9 @@ int main() {
 	cout << "\nAlamat = " << mhs1.alamat;
 	cout << "\nUmur = " << mhs1.umur;
 	
+	cout << "NIM = " << mhs2.NIM;
+	cout << "\nNama = " << mhs2.nama;
+	cout << "\nAlamat = " << mhs2.alamat;
+	cout << "\nUmur = " << mhs2.umur;
 
 }
